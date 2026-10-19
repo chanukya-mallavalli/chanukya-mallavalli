@@ -1,3 +1,9 @@
+# Hey, I'm Chanukya 👋
+
+### CSE Student • Web Developer • AI Builder 
+
+🧠 Exploring technology, building solutions, and pushing boundaries.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanukya_chin2_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mallavalli Chanukya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanukyamallavalli@gmail.com) 
